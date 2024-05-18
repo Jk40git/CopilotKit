@@ -19,6 +19,10 @@
       ".next",
       "CopilotKit",
       "types"
+    ],
+    "cSpell.words": [
+      "Autocompletions",
+      "slatejs"
     ]
   }
 }
