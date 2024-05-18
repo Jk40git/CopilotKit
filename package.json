@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "pnpm": "7.15"
+    "pnpm": "^8.14.3"
   }
 }
